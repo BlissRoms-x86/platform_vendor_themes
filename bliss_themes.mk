@@ -69,6 +69,7 @@ PRODUCT_PACKAGES += \
 	LightBlue \
 	LightGreen \
 	Lime \
+	Netflix \
 	Orange \
 	Pink \
 	Purple \
