@@ -46,3 +46,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorSolarizedDarkOverlay \
     PrimaryFlameOverlay \
     PrimaryColorOneplusDarkOverlay
+
+# Primary 
+PRODUCT_PACKAGES += \ 
+    PrimaryColorCarbonBlackOverlay 
