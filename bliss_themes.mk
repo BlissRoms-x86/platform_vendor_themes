@@ -49,4 +49,5 @@ PRODUCT_PACKAGES += \
 
 # Primary 
 PRODUCT_PACKAGES += \ 
-    PrimaryColorCarbonBlackOverlay 
+    PrimaryColorCarbonBlackOverlay \
+    PrimaryColorCarbonOceanOverlay 
