@@ -48,10 +48,10 @@ PRODUCT_PACKAGES += \
     PrimaryColorOneplusDarkOverlay
 
 # Primary 
-PRODUCT_PACKAGES += \ 
-    PrimaryColorCarbonBlackOverlay \
-    PrimaryColorCarbonOceanOverlay \
-    PrimaryColorCarbonNatureOverlay
+PRODUCT_PACKAGES += \
+	PrimaryColorCarbonBlackOverlay \
+	PrimaryColorCarbonOceanOverlay \
+	PrimaryColorCarbonNatureOverlay
 
 # Accents
 PRODUCT_PACKAGES += \
